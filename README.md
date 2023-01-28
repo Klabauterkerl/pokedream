@@ -10,6 +10,7 @@ But what is most affected are your dreams. No matter the story, it is always abo
 
 Now another restless dreamfilled night begins as you close your eyes...
 
+
 # What is this?
 This project was created as part of the computational creativity seminar at cis lmu.
 It is a story and image generator, which will put out a brand new pokemon story in four chapters.
