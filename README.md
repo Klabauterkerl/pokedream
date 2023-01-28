@@ -27,3 +27,5 @@ You can adjust the way the story is told and what it will be about, as well as t
 - Have fun with your story while listening to the music the model selected for you
 - Download final image containing the story from colab filebrowser
 
+# References
+This Project makes use of GPT-3 by OpenAI (text-davinci-003) and stable diffusion model [openjpurney-v2](https://huggingface.co/prompthero/openjourney-v2)
